@@ -1,6 +1,6 @@
 # Mídia Social
  
- -  Landing Page marketing mídia social
+ -  Landing Page marketing mídia social responsiva
 
  - Projeto construído com base em um tutorial do Youtube!
 
